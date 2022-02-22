@@ -1,13 +1,6 @@
 instant-django
 ====
 
-簡単なCRUD操作を行うDjangoのアプリケーションです。
-モデル(app/models.py)の編集とマイグレーション、データ表示の変更だけで自分用のアプリケーションとして使うことができます。
-使い方等は以下の記事を参照してください。
-
-[Qiita: [Python] テンプレートアプリを使った業務用Webアプリケーション高速開発法の紹介【チュートリアル形式】](https://qiita.com/okoppe8/items/4cc0f87ea933749f5a49)
-
-
 Instant-django is a practical sample project of Django.
 
 Instant-django has a sample model and basic CRUD views.
